@@ -5,4 +5,13 @@ Based on 'Filter by Multiple Properties' at https://www.youtube.com/watch?v=MTfO
 
 #Filter by Multiple Properties
 
-See script.js, index.html and styles.css how this is implemented.
+##Multiple search textboxes. 
+Each textbox searching a specific property.
+
+See scriptA.js, indexA.html and stylesA.css how this is implemented.
+
+##Single search textbox searching multiple properties
+
+Uses a custom search function.
+
+See scriptB.js indexB.html and stylesB.css how this is implemented.
